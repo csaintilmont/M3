@@ -35,6 +35,7 @@ Campus Snapshots will have the ability to upload instant images and videos like 
 1. Event: Image or video posted by site users along with descriptions to report campus issues or social activities.
 2. Power User: Administrative user in charge of keeping track of reports and monitoring site.
 3. User: Student, professor, faculty, or other user able to create an account and post events on site.
+4. Role: Power vs Regular user
 
 
 ## 4. Overview, Scenarios and Use Cases
