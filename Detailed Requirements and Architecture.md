@@ -76,29 +76,34 @@ User Stories:
   
 ## 5. High-Level Functional Requirements
 
-1. Registration: A user shall be able to make an account. 
-2. Recover Access: A user shall be able to answer security questions while register for an 
-    account in case of forgot access information such as username and/or password. 
-3. Access: A user shall be able to login and logout after registered. 
-4. Post Event and Write Comment: A user shall be able to post event and write comment.
-5. Delete Event: A user shall be able to delete his/her own post.
-6. Edit: A user shall be able to edit his or her post, comment, and profile.
-7. Verifying Event: A power user shall be able to label a post verified or not verified. 
-8. Event Status: A power user shall be able to update the status of a report submitted by user.
-9. Force Remove Event: A power user shall be able to delete anyone’s post if it is wrong or 
-    untruthful.
-10. Block User: A power user shall be able to block/ban a user if necessary.
-11. Search for Event: A user shall be able to search for posted events. 
-12. Video Event: A user should be able to post a video event. 
-13. Friend: A user should be able to make friends and have a friends list.
-14. Sharing: A user should be able to share a post event to his/her friends.
-15. Chat: A user should be able to chat with his or her friends and admins.
-16. Weather: A user should be able to check for the weather within the web page. 
+1.	Registration:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.	A user shall be able to make an account. [1]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.	A power user shall be able to make an account not by the registration page but by letting whoever responsible for the website put them in the database. [1]
+2.	Recover Access: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.	A user shall be able to answer security questions while register for an account in case of forgot access information such as username and/or password. [1]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.	A user shall be able to find his/her account in the recovery page with input information. [1]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.	A user shall be able to reset password after answer correctly the security question. [1]
+3.	Access: A user shall be able to login and logout after registered. [1]
+4.	Post Event and Write Comment: A user shall be able to post event and write comment. [1]
+5.	Delete Event: A user shall be able to delete his/her own post. [1]
+6.	Edit: A user shall be able to edit his or her post, comment, and profile. [2]
+7.	Verifying Event: A power user shall be able to label a post verified or not verified. [1]
+8.	Event Status: A power user shall be able to update the status of a report submitted by user. [1]
+9.	Force Remove Event: A power user shall be able to delete anyone’s post if it is wrong or untruthful. [2]
+10.	Block User: A power user shall be able to block/ban a user if necessary. [2]
+11.	Search for Event: A user shall be able to search for posted events. [2]
+12.	Video Event: A user should be able to post a video event. [3]
+13.	Friend: A user should be able to make friends and have a friends list. [3]
+14.	Sharing: A user should be able to share a post event to his/her friends. [3]
+15.	Chat: A user should be able to chat with his or her friends and admins. [3]
+16.	Weather: A user should be able to check for the weather within the web page. [3]
+
+
 
 
 ## 6. List of Non-Functional Requirements
 
-1. The website shall run on all major web browsers.
+1. The website shall run on at least 3 major web browsers.
 2. The user password shall be at least 8 characters including 1 uppercase, 1 number, 1 special 
     character, and no spaces. 
 3. The system shall send an email to the user to verify the email address after registration. This 
@@ -107,13 +112,18 @@ User Stories:
     process. 
 5. A user shall be able to access his/her own account right after email verification.
 6. A user shall be able to use all the website functions without prior training.
-7. User data shall be stored in a database. 
+7. User data shall be stored in 1 database. 
 8. The language in the website shall be English.
 9. The website shall be rich in content.
 10. The user’s post shall be shown within 3 seconds. 
 11. A user shall be able to see status of submitted reports.
 12. A user shall be able to scroll through webpage and see general content without logging in.
+13. User password shall never viewable at any point
+14. The system shall achieve 99% up time.
+15. The system shall not be shut down for maintenance more than once in 2 days. 
+16. The time zone shall be obvious to the user on each post.  
 
+Note to proofreader: I added a few number quality to our previous requirements and added #13-16. 
 
 ## 7. High-Level System Architecture and Database Organization
 
