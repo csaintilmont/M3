@@ -76,13 +76,13 @@ User Stories:
   
 ## 5. High-Level Functional Requirements
 
-1.	Registration:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.	A user shall be able to make an account. [1]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.	A power user shall be able to make an account not by the registration page but by letting whoever responsible for the website put them in the database. [1]
-2.	Recover Access: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.	A user shall be able to answer security questions while register for an account in case of forgot access information such as username and/or password. [1]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.	A user shall be able to find his/her account in the recovery page with input information. [1]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.	A user shall be able to reset password after answer correctly the security question. [1]
+1.	Registration:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.	A user shall be able to make an account. [1]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.	A power user shall be able to make an account not by the registration page but by letting whoever responsible for the website put them in the database. [1]<br>
+2.	Recover Access: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.	A user shall be able to answer security questions while register for an account in case of forgot access information such as username and/or password. [1]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.	A user shall be able to find his/her account in the recovery page with input information. [1]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.	A user shall be able to reset password after answer correctly the security question. [1]<br>
 3.	Access: A user shall be able to login and logout after registered. [1]
 4.	Post Event and Write Comment: A user shall be able to post event and write comment. [1]
 5.	Delete Event: A user shall be able to delete his/her own post. [1]
