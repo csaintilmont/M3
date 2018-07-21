@@ -123,17 +123,17 @@ User Stories:
 15. The system shall not be shut down for maintenance more than once in 2 days. 
 16. The time zone shall be obvious to the user on each post.  
 
-Note to proofreader: I added a few number quality to our previous requirements and added #13-16. 
+Note to proofreader: I added a few number quantity to our previous requirements and added #13-16. 
 
 ## 7. High-Level System Architecture and Database Organization
 
-Software products and Tools: Brackets, Notepad++, Putty, WinSCP, FileZilla, GitHub, etc
-Languages and Systems: English, HTML, PHP, MySQL, Linux, Windows, MacOS, Mobiles , etc
-APIs: Calendar, Weather
-Supported Browsers: Chrome, Firefox, Opera, Safari, Microsoft Edge, Internet Explorer
-Frameworks: HTML, PHP, CSS
+Software products and Tools: Brackets, Notepad++, Putty, WinSCP, FileZilla, GitHub, etc <br>
+Languages and Systems: English, HTML, PHP, MySQL, Linux, Windows, MacOS, Mobiles , etc<br>
+APIs: Calendar, Weather<br>
+Supported Browsers: Chrome, Firefox, Opera, Safari, Microsoft Edge, Internet Explorer<br>
+Frameworks: HTML, PHP, CSS<br>
 
-Database Organization
+Database Organization<br>
 
 
 ## 8. High-Level UML Diagrams
