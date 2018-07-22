@@ -32,14 +32,13 @@ Campus Snapshots will have the ability to upload instant images and videos like 
 
 ## 3. Data Definitions
 
-1. Event: Image or video posted by site users along with descriptions to report campus issues or social activities.
-  -Images must be in .jpe or .png format with a maximum size of ______ MB
-  -Videos must be in .mp4 format with a maximun size of ______ MB
+1. Event: Image or video posted by site users along with descriptions to report campus issues or social activities. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;-Images must be in .jpe or .png format with a maximum size of ______ MB <br>
+&nbsp;&nbsp;&nbsp;&nbsp;-Videos must be in .mp4 format with a maximun size of ______ MB 
 2. Power User: Administrative user in charge of keeping track of reports to update their status and monitoring overall site.
-3. User: Student, professor, faculty, or other user able to create an account and post events/comments on site.
-  -Must provide first and last name, email, username, password, nickname, date of birth, gender, major (if applicable), and security    
-   questions/answers for account recovery. 
-  -May add profile image with a maximum size of ______ MB
+3. User: Student, professor, faculty, or other user able to create an account and post events/comments on site. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;-Must provide first and last name, email, username, password, nickname, date of birth, gender, major (if applicable), and security questions/answers for account recovery. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;-May add profile image with a maximum size of ______ MB
 4. Role: Power vs Regular user
 5. Verified: Posted event has been verified by power user as credile or appropriate.
 6. Resolved: Posted event pertaining to an issue has been fixed and marked as solved by power user in order to notify all other users. 
