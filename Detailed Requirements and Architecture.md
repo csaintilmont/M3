@@ -126,8 +126,11 @@ Frameworks: HTML, PHP, CSS
 
 Database Organization
 
+*Add new information based on M3 instructions
+
 
 ## 8. High-Level UML Diagrams
+
 
 
 ## 9. Identify Key Risks and Actions
