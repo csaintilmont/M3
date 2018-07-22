@@ -97,6 +97,7 @@ User Stories:
 14.	Sharing: A user should be able to share a post event to his/her friends. [3]
 15.	Chat: A user should be able to chat with his or her friends and admins. [3]
 16.	Weather: A user should be able to check for the weather within the web page. [3]
+17. Calendar: A user should be able to check for the date in the calendar section. [3] 
 
 
 
