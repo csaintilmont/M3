@@ -44,12 +44,6 @@ Modify M1 accordingly, and add the following:<br>
 
 
 ## 9.	High-Level UML diagrams<br>
-Familiarize yourself with Unified Modeling Language (UML). Find your favorite UML tutorials from the Internet. One good one is http://edn.embarcadero.com/article/31863<br>
-At minimum provide:<br>
-1)	High-level UML class diagrams for implementation classes of core functionality, i.e. functionality with provided interfaces. Focus on main high-level classes only (one or at most two levels deep). This must reflect an OO approach to implementing your site.<br>
-2)	UML Component and deployment diagrams
-Use data terms and names consistently with Glossary/Data Dictionary.<br>
-
 
 ## 10.	Identify actual key risks for your project at this time<br>
 Identify only actual and specific risks in your current work such as (list those that apply: <br>
