@@ -44,6 +44,7 @@ Modify M1 accordingly, and add the following:<br>
 
 
 ## 9.	High-Level UML diagrams<br>
+![class uml](https://user-images.githubusercontent.com/39216383/43109869-eb4e0352-8eb6-11e8-85eb-3dd6f6236e0e.PNG)
 
 ## 10.	Identify actual key risks for your project at this time<br>
 Identify only actual and specific risks in your current work such as (list those that apply: <br>
